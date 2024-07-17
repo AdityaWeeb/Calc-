@@ -1,1 +1,1 @@
-Very first project using front end application such as HTML,CSS and JS
+Creating My very first Front-end Application of a Simple Calculator Using HTML/CSS and JavaScript
